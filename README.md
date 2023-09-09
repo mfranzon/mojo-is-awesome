@@ -11,6 +11,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
   - [Contents](#contents)
   - [Community](#community)
   - [Essential](#essential)
+  - [Benchmarks](#benchmarks)
   - [Articles](#articles)
   - [Videos](#videos)
   - [Contributing](#contributing)
@@ -23,6 +24,10 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 ## Essential
 - [Blog](https://www.modular.com/blog)
 - [Learn](https://docs.modular.com/mojo/)
+
+## Benchmarks
+- [Benchmarks](./benchmarks/)
+- [Matrix multiplication](./benchmarks/matmul/)
 
 ## Articles
 - [Introducing Mojo: A New Programming Language for AI](https://medium.com/mlearning-ai/introducing-mojo-a-new-programming-language-for-ai-f47fc7bbfbf0)
