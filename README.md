@@ -17,7 +17,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
   - [License](#license)
 
 ## Community
-- [Github](ttps://github.com/modularml/mojo)
+- [Github](https://github.com/modularml/mojo)
 - [Github discussions for Mojo](https://github.com/modularml/mojo/discussions)
 
 ## Essential
