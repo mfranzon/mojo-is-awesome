@@ -10,18 +10,28 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [**Mojo is Awesome** ](#mojo-is-awesome-)
   - [Contents](#contents)
   - [Community](#community)
+  - [Essential](#essential)
   - [Articles](#articles)
   - [Videos](#videos)
   - [Contributing](#contributing)
   - [License](#license)
 
 ## Community
+[Github](ttps://github.com/modularml/mojo)
+[Github discussions for Mojo](https://github.com/modularml/mojo/discussions)
+
+## Essential
+- [Blog](https://www.modular.com/blog)
+- [Learn](https://docs.modular.com/mojo/)
 
 ## Articles
-
+- [Introducing Mojo: A New Programming Language for AI](https://medium.com/mlearning-ai/introducing-mojo-a-new-programming-language-for-ai-f47fc7bbfbf0)
+- [Mojo🔥 - a new programming language for all AI developers ](https://medium.com/@shani.pelzig/mojo-a-new-programming-language-for-all-ai-developers-a-quick-introduction-6cd1fa9566f9)
 ## Videos
-
+- [Mojo 🔥 — a new programming language for AI developers](https://www.youtube.com/watch?v=-ogEkqeDEPg)
+- [Mojo Lang… a fast futuristic Python alternative](https://www.youtube.com/watch?v=V4gGJ7XXlC0)
 ## Contributing
+Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ## License
 
