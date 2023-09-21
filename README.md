@@ -32,9 +32,13 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 ## Articles
 - [Introducing Mojo: A New Programming Language for AI](https://medium.com/mlearning-ai/introducing-mojo-a-new-programming-language-for-ai-f47fc7bbfbf0)
 - [Mojo🔥 - a new programming language for all AI developers ](https://medium.com/@shani.pelzig/mojo-a-new-programming-language-for-all-ai-developers-a-quick-introduction-6cd1fa9566f9)
+- [Optimizing Convolutional Neural Networks with Mojo](https://huggingface.co/blog/rishiraj/optimizing-cnn-with-mojo-1)
+
 ## Videos
 - [Mojo 🔥 — a new programming language for AI developers](https://www.youtube.com/watch?v=-ogEkqeDEPg)
 - [Mojo Lang… a fast futuristic Python alternative](https://www.youtube.com/watch?v=V4gGJ7XXlC0)
+- [Getting started with the Mojo SDK🔥](https://youtu.be/knGTSXe7ytI?si=WMbZkE4c6ALKx0fD)
+
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
