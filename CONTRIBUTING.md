@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Contributing to mojo is awesome
+# Contributing to Mojo is awesome
 
 First off, thanks for taking the time to contribute! ❤️
 
