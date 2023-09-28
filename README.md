@@ -33,7 +33,12 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 ## Articles
 - [Introducing Mojo: A New Programming Language for AI](https://medium.com/mlearning-ai/introducing-mojo-a-new-programming-language-for-ai-f47fc7bbfbf0)
 - [Mojo🔥 - a new programming language for all AI developers ](https://medium.com/@shani.pelzig/mojo-a-new-programming-language-for-all-ai-developers-a-quick-introduction-6cd1fa9566f9)
+- [Official Mojo Documentation](https://docs.modular.com/mojo/)
 - [Optimizing Convolutional Neural Networks with Mojo](https://huggingface.co/blog/rishiraj/optimizing-cnn-with-mojo-1)
+- [Getting Started with Mojo 🔥](https://dev.to/jjokah/getting-started-with-mojo-4985)
+- [How Mojo🔥 gets a 35,000x speedup over Python – Part 1](https://huggingface.co/blog/rishiraj/optimizing-cnn-with-mojo-1)
+- [How Mojo🔥 gets a 35,000x speedup over Python – Part 2](https://www.modular.com/blog/how-mojo-gets-a-35-000x-speedup-over-python-part-2)
+- [Mojo🔥 - A journey to 68,000x speedup over Python - Part 3](https://www.modular.com/blog/mojo-a-journey-to-68-000x-speedup-over-python-part-3)
 
 ## Videos
 - [Mojo 🔥 — a new programming language for AI developers](https://www.youtube.com/watch?v=-ogEkqeDEPg)
