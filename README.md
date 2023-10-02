@@ -45,6 +45,18 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Mojo 🔥 — a new programming language for AI developers](https://www.youtube.com/watch?v=-ogEkqeDEPg)
 - [Mojo Lang… a fast futuristic Python alternative](https://www.youtube.com/watch?v=V4gGJ7XXlC0)
 - [Getting started with the Mojo SDK🔥](https://youtu.be/knGTSXe7ytI?si=WMbZkE4c6ALKx0fD)
+- [All you Need To Know About Mojo Programming Language 🔥](https://youtu.be/RI2F6u9dnkU?si=qVuLdYwqZz9mb_M7)
+- [Say Goodbye to Python and Hello to Mojo🔥](https://youtu.be/s4ZUkwe0ZTI?si=HlPv-ePPSvT_FIme)
+- [Mojo🔥 Review: How good is the new programming language for AI? ](https://www.youtube.com/watch?v=32aVTyYICys)
+- [Jeremy Howard demo for Mojo launch](https://www.youtube.com/watch?v=6GvB5lZJqcE)
+- [Mojo AI and Canva](https://www.youtube.com/watch?v=1gkGpWYA_ZY)
+- [Mojo AI and Canva - User guide video](https://www.youtube.com/watch?v=jCjcPQnYlhA)
+- [Mojo AI Infinity](https://www.youtube.com/watch?v=2KSIwhXfJF4)
+- [Artistic QR code with Mojo AI](https://www.youtube.com/watch?v=FdukjOx_P-I)
+- [MOJO - AI As a Service](https://www.youtube.com/watch?v=ER9NZCF_PE8)
+- [MOJO AI PLATFORM - ART STUDIO + Chatbot](https://www.youtube.com/watch?v=bVBT9tTqBHk)
+- [Mojo Horoscope NFT - Blue Saphire](https://www.youtube.com/watch?v=mikojFI4wXk)
+
 
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
