@@ -6,7 +6,7 @@
 
 _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
 
-## Contents
+## 📑Contents
 - [**Mojo is Awesome** ](#mojo-is-awesome-)
   - [Contents](#contents)
   - [Community](#community)
@@ -17,20 +17,20 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
   - [Contributing](#contributing)
   - [License](#license)
 
-## Community
+## 💚Community
 - [Github](https://github.com/modularml/mojo)
 - [Github discussions for Mojo](https://github.com/modularml/mojo/discussions)
 - [llama2 in Mojo! - Porting of LLM llama2.c in 🔥](https://github.com/tairov/llama2.mojo)
 
-## Essential
+## 🎨Essential
 - [Blog](https://www.modular.com/blog)
 - [Learn](https://docs.modular.com/mojo/)
 
-## Benchmarks
+## 🧿Benchmarks
 - [Benchmarks](./benchmarks/)
   - [Matrix multiplication](./benchmarks/matmul/)
 
-## Articles
+## 📰Articles
 - [Introducing Mojo: A New Programming Language for AI](https://medium.com/mlearning-ai/introducing-mojo-a-new-programming-language-for-ai-f47fc7bbfbf0)
 - [Mojo🔥 - a new programming language for all AI developers ](https://medium.com/@shani.pelzig/mojo-a-new-programming-language-for-all-ai-developers-a-quick-introduction-6cd1fa9566f9)
 - [Official Mojo Documentation](https://docs.modular.com/mojo/)
@@ -41,7 +41,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Mojo🔥 - A journey to 68,000x speedup over Python - Part 3](https://www.modular.com/blog/mojo-a-journey-to-68-000x-speedup-over-python-part-3)
 - [Mojo: The Future of AI Programming 🔥](https://codeconfessions.substack.com/p/mojo-the-future-of-ai-programming)
 
-## Videos
+## ▶Videos
 - [Mojo 🔥 — a new programming language for AI developers](https://www.youtube.com/watch?v=-ogEkqeDEPg)
 - [Mojo Lang… a fast futuristic Python alternative](https://www.youtube.com/watch?v=V4gGJ7XXlC0)
 - [Getting started with the Mojo SDK🔥](https://youtu.be/knGTSXe7ytI?si=WMbZkE4c6ALKx0fD)
@@ -58,9 +58,9 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Mojo Horoscope NFT - Blue Saphire](https://www.youtube.com/watch?v=mikojFI4wXk)
 
 
-## Contributing
+## 🌱Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
-## License
+## 📜License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
