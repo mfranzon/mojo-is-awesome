@@ -44,7 +44,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 ## Videos
 - [Mojo 🔥 — a new programming language for AI developers](https://www.youtube.com/watch?v=-ogEkqeDEPg)
 - [Mojo Lang… a fast futuristic Python alternative](https://www.youtube.com/watch?v=V4gGJ7XXlC0)
-- [Getting started with the Mojo SDK🔥](https://codeconfessions.substack.com/p/mojo-the-future-of-ai-programming)
+- [Getting started with the Mojo SDK🔥](https://youtu.be/knGTSXe7ytI?si=WMbZkE4c6ALKx0fD)
 
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
