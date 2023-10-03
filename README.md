@@ -56,6 +56,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [MOJO - AI As a Service](https://www.youtube.com/watch?v=ER9NZCF_PE8)
 - [MOJO AI PLATFORM - ART STUDIO + Chatbot](https://www.youtube.com/watch?v=bVBT9tTqBHk)
 - [Mojo Horoscope NFT - Blue Saphire](https://www.youtube.com/watch?v=mikojFI4wXk)
+- [Mojo Programming Language – Full Course for Beginners](https://youtu.be/5Sm9IVMet9c?feature=shared)
 
 
 ## 🌱Contributing
