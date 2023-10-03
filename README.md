@@ -1,10 +1,42 @@
-# **Mojo is Awesome** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+ <div align="center">
+  <h1>Mojo is Awesome</h1>
+  <a href="https://github.com/sindresorhus/awesome">
+    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
+  </a>
+</div>
 
-> Curated list of Mojo resources, benchmarks and examples. 
+
+<div id="top"></div>
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/uses-brains.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" />
+  <br>
+  <img src="https://img.shields.io/github/repo-size/mfranzon/mojo-is-awesome?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/mfranzon/mojo-is-awesome?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues-closed-raw/mfranzon/mojo-is-awesome?style=for-the-badge" />
+  <br>
+  <img src="https://img.shields.io/github/forks/mfranzon/mojo-is-awesome?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues-pr/mfranzon/mojo-is-awesome?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues-pr-closed-raw/mfranzon/mojo-is-awesome?style=for-the-badge" />
+  <br>
+  <img src="https://img.shields.io/github/stars/mfranzon/mojo-is-awesome?style=for-the-badge" />
+  <img src="https://img.shields.io/github/contributors/mfranzon/mojo-is-awesome?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/mfranzon/mojo-is-awesome?style=for-the-badge" />
+</div>
+
+
+
+<div align="center">
+
+# Curated list of Mojo resources, benchmarks, and examples.
 
 [Mojo 🔥](https://www.modular.com/mojo): the programming language for all AI developers.
 
 _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
+
+</div>
+
 
 ## 📑Contents
 - [**Mojo is Awesome** ](#mojo-is-awesome-)
@@ -61,6 +93,12 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## 🌱Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
+<div align="center">
+  <a href="https://github.com/mfranzon/mojo-is-awesome/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=mfranzon/mojo-is-awesome" />
+  </a>
+</div>
+
 
 ## 📜License
 
