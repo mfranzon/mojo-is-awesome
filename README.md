@@ -81,13 +81,6 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Say Goodbye to Python and Hello to Mojo🔥](https://youtu.be/s4ZUkwe0ZTI?si=HlPv-ePPSvT_FIme)
 - [Mojo🔥 Review: How good is the new programming language for AI? ](https://www.youtube.com/watch?v=32aVTyYICys)
 - [Jeremy Howard demo for Mojo launch](https://www.youtube.com/watch?v=6GvB5lZJqcE)
-- [Mojo AI and Canva](https://www.youtube.com/watch?v=1gkGpWYA_ZY)
-- [Mojo AI and Canva - User guide video](https://www.youtube.com/watch?v=jCjcPQnYlhA)
-- [Mojo AI Infinity](https://www.youtube.com/watch?v=2KSIwhXfJF4)
-- [Artistic QR code with Mojo AI](https://www.youtube.com/watch?v=FdukjOx_P-I)
-- [MOJO - AI As a Service](https://www.youtube.com/watch?v=ER9NZCF_PE8)
-- [MOJO AI PLATFORM - ART STUDIO + Chatbot](https://www.youtube.com/watch?v=bVBT9tTqBHk)
-- [Mojo Horoscope NFT - Blue Saphire](https://www.youtube.com/watch?v=mikojFI4wXk)
 - [Mojo Programming Language – Full Course for Beginners](https://youtu.be/5Sm9IVMet9c?feature=shared)
 
 
