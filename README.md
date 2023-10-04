@@ -85,7 +85,17 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 
 ## 🌱Contributing
-Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
+Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). 
+- Fork the repo.
+- Clone the repo from your codebase
+- Choose your favorite editor and open the folder.
+- Create a new branch: `git checkout -b  <branch-name>`
+- Make changes, commit them and push it back up to github using `git push origin <your-branch-name>`. 
+- Open pull request on GitHub.
+
+Thank you!
+
+## ⚡Contributors
 <div align="center">
   <a href="https://github.com/mfranzon/mojo-is-awesome/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=mfranzon/mojo-is-awesome" />
