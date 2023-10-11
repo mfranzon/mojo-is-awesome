@@ -84,9 +84,9 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Mojo🔥 Review: How good is the new programming language for AI? ](https://www.youtube.com/watch?v=32aVTyYICys)
 - [Jeremy Howard demo for Mojo launch](https://www.youtube.com/watch?v=6GvB5lZJqcE)
 - [Mojo Programming Language – Full Course for Beginners](https://youtu.be/5Sm9IVMet9c?feature=shared)
+- [Introduction to Mojo programming language](https://www.youtube.com/watch?v=j2BtOxtlJk4)
 - [Chris Lattner: Future of Programming and AI | Lex Fridman Podcast](https://www.youtube.com/watch?v=pdJQ8iVTwj8)
 - [Mojo: A Supercharged Python for AI with Chris Lattner](https://www.youtube.com/watch?v=-8TbsCUuwQQ)
-
 
 ## 🌱Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). 
