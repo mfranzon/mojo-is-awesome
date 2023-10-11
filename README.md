@@ -72,6 +72,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [How Mojo🔥 gets a 35,000x speedup over Python – Part 2](https://www.modular.com/blog/how-mojo-gets-a-35-000x-speedup-over-python-part-2)
 - [Mojo🔥 - A journey to 68,000x speedup over Python - Part 3](https://www.modular.com/blog/mojo-a-journey-to-68-000x-speedup-over-python-part-3)
 - [Mojo: The Future of AI Programming 🔥](https://codeconfessions.substack.com/p/mojo-the-future-of-ai-programming)
+- [New Mojo: Programming Language for AI Developers](https://www.freecodecamp.org/news/new-mojo-programming-language-for-ai-developers/)
 - [Mojo🔥 may be the biggest programming language advance in decades](https://www.fast.ai/posts/2023-05-03-mojo-launch.html)
 
 ## ▶Videos
