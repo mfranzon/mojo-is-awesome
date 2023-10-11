@@ -72,6 +72,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [How Mojo🔥 gets a 35,000x speedup over Python – Part 2](https://www.modular.com/blog/how-mojo-gets-a-35-000x-speedup-over-python-part-2)
 - [Mojo🔥 - A journey to 68,000x speedup over Python - Part 3](https://www.modular.com/blog/mojo-a-journey-to-68-000x-speedup-over-python-part-3)
 - [Mojo: The Future of AI Programming 🔥](https://codeconfessions.substack.com/p/mojo-the-future-of-ai-programming)
+- [Mojo🔥 may be the biggest programming language advance in decades](https://www.fast.ai/posts/2023-05-03-mojo-launch.html)
 
 ## ▶Videos
 - [Mojo 🔥 — a new programming language for AI developers](https://www.youtube.com/watch?v=-ogEkqeDEPg)
@@ -82,6 +83,8 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Mojo🔥 Review: How good is the new programming language for AI? ](https://www.youtube.com/watch?v=32aVTyYICys)
 - [Jeremy Howard demo for Mojo launch](https://www.youtube.com/watch?v=6GvB5lZJqcE)
 - [Mojo Programming Language – Full Course for Beginners](https://youtu.be/5Sm9IVMet9c?feature=shared)
+- [Chris Lattner: Future of Programming and AI | Lex Fridman Podcast](https://www.youtube.com/watch?v=pdJQ8iVTwj8)
+- [Mojo: A Supercharged Python for AI with Chris Lattner](https://www.youtube.com/watch?v=-8TbsCUuwQQ)
 
 
 ## 🌱Contributing
