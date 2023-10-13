@@ -131,6 +131,50 @@ Enhancement suggestions are tracked as [GitHub issues](/issues).
 - You may want to **include screenshots and animated GIFs** which help you demonstrate the steps or point out the part which the suggestion is related to. You can use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux. <!-- this should only be included if the project has a GUI -->
 - **Explain why this enhancement would be useful** to most mojo is awesome users. You may also want to point out the other projects that solved it better and which could serve as inspiration.
 
+#### Your First Code Contribution
+
+Found an awesome package, article, blog, video etc. that you would like to add? Send me a pull request! Just follow the guidelines below.
+
+##### Fork the Repository
+- Forking creates a copy of the repository under your GitHub account.
+- Click the "Fork" button in the top-right corner of the `mojo-is-awesome` repository page. Wait for a copy of the repository to appear in your Github account.
+
+##### Clone the Repository from your Fork
+- Choose your favorite editor and open the folder.
+- Next, clone your fork to your computer, so you can work on the project locally.
+- Click the "Code" button on your forked repository, and copy the repository URL (e.g., `https://github.com/[githubusername]/mojo-is-awesome.git`). 
+- Open your terminal or Git bash. Use the git clone command to clone the repository:
+  - `git clone https://github.com/[githubusername]/mojo-is-awesome.git`
+ 
+##### Create a New Branch: 
+- Go to the Directory you cloned by using the `cd` command.
+- Create a new branch to work in by using the `git checkout -b` command and replacing `branch-name` with a descriptive name for your branch:
+  - `cd mojo-is-awesome` 
+  - `git checkout -b  <branch-name>`
+
+##### Make Your Contribution
+- On your editor, make your changes or contribute by either: 
+  - Fixing errors in documentation. 
+  - Adding an article, blog, video. 
+  - Fixing bugs, etc.
+
+##### Commit and Push
+- After making changes, you can commit them and push it back up to Github using:
+  - `git add` command
+  - `git commit -m "Add commit message"` 
+  - `git push origin <your-branch-name>.`
+
+##### Create a Pull Request
+- The final step is to go back to your forked repository on GitHub. 
+- Look for the notification about creating a pull request and click on it. 
+- Alternatively, you can navigate to the "Pull Requests" tab and create a new pull request.
+- Write a clear and descriptive title and comment explaining the changes you made. Then, submit the pull request.
+- Wait for the project maintainers to review your pull request and give you feedback. 
+- If your contribution is approved, it will be merged into the main repository. 
+- Congratulations on making your first pull request! 
+  
+
+
 <!-- You might want to create an issue template for enhancement suggestions that can be used as a guide and that defines the structure of the information to be included. If you do so, reference it here in the description. -->
 
 
