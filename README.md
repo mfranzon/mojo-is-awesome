@@ -61,6 +61,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 ## 🧿Benchmarks
 - [Benchmarks](./benchmarks/)
   - [Matrix multiplication](./benchmarks/matmul/)
+  - [Mandelbrot generation](./benchmarks/mandelbrot/)
 
 ## 📰Articles
 - [Introducing Mojo: A New Programming Language for AI](https://medium.com/mlearning-ai/introducing-mojo-a-new-programming-language-for-ai-f47fc7bbfbf0)
