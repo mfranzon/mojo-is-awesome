@@ -76,6 +76,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [New Mojo: Programming Language for AI Developers](https://www.freecodecamp.org/news/new-mojo-programming-language-for-ai-developers/)
 - [Mojo🔥 may be the biggest programming language advance in decades](https://www.fast.ai/posts/2023-05-03-mojo-launch.html)
 - [An easy introduction to Mojo🔥 for Python programmers](https://www.modular.com/blog/an-easy-introduction-to-mojo-for-python-programmers)
+- [Mojo Language: The New Programming Language for AI](https://www.datacamp.com/tutorial/mojo-language-the-new-programming-language-for-ai)
 
 ## ▶Videos
 - [Mojo 🔥 — a new programming language for AI developers](https://www.youtube.com/watch?v=-ogEkqeDEPg)
