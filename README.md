@@ -77,6 +77,8 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Mojo🔥 may be the biggest programming language advance in decades](https://www.fast.ai/posts/2023-05-03-mojo-launch.html)
 - [An easy introduction to Mojo🔥 for Python programmers](https://www.modular.com/blog/an-easy-introduction-to-mojo-for-python-programmers)
 - [Mojo Language: The New Programming Language for AI](https://www.datacamp.com/tutorial/mojo-language-the-new-programming-language-for-ai)
+- [Mojo - A New Programming Language for AI](https://refine.dev/blog/mojo-programming-language/#what-is-mojo)
+- [Exploring the Power of Mojo🔥 Programming Language](https://www.seaflux.tech/blogs/mojo-ai-programming-language)
 - [Getting started with the Mojo programming language for AI](https://blog.logrocket.com/getting-started-mojo-programming-language/)
 
 ## ▶Videos
@@ -91,6 +93,8 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Introduction to Mojo programming language](https://www.youtube.com/watch?v=j2BtOxtlJk4)
 - [Chris Lattner: Future of Programming and AI | Lex Fridman Podcast](https://www.youtube.com/watch?v=pdJQ8iVTwj8)
 - [Mojo: A Supercharged Python for AI with Chris Lattner](https://www.youtube.com/watch?v=-8TbsCUuwQQ)
+- [Is Python Really Dead? | Python vs Mojo | What Is Mojo Programming | Simplilearn](https://www.youtube.com/watch?v=TIxTHSzohAY&ab_channel=Simplilearn)
+- [Install and Setup Mojo 🔥 — the programming language for all AI developers](https://www.youtube.com/watch?v=SEwDoXPBjDk&ab_channel=AIAnytime)
 
 ## 🌱Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). 
