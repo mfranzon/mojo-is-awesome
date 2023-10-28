@@ -79,6 +79,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Mojo Language: The New Programming Language for AI](https://www.datacamp.com/tutorial/mojo-language-the-new-programming-language-for-ai)
 - [Mojo - A New Programming Language for AI](https://refine.dev/blog/mojo-programming-language/#what-is-mojo)
 - [Exploring the Power of Mojo🔥 Programming Language](https://www.seaflux.tech/blogs/mojo-ai-programming-language)
+- [Getting started with the Mojo programming language for AI](https://blog.logrocket.com/getting-started-mojo-programming-language/)
 
 ## ▶Videos
 - [Mojo 🔥 — a new programming language for AI developers](https://www.youtube.com/watch?v=-ogEkqeDEPg)
