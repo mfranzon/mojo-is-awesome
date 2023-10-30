@@ -95,6 +95,8 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Mojo: A Supercharged Python for AI with Chris Lattner](https://www.youtube.com/watch?v=-8TbsCUuwQQ)
 - [Is Python Really Dead? | Python vs Mojo | What Is Mojo Programming | Simplilearn](https://www.youtube.com/watch?v=TIxTHSzohAY&ab_channel=Simplilearn)
 - [Install and Setup Mojo 🔥 — the programming language for all AI developers](https://www.youtube.com/watch?v=SEwDoXPBjDk&ab_channel=AIAnytime)
+- [Is This Language Replacing Python?! | Tech with Tim](https://www.youtube.com/watch?v=21WFgScvrdg)
+- [[TechBites] New language Mojo.🔥 | Will Python be replaced? | Preface](https://www.youtube.com/watch?v=p0dCj1JL8AM)
 
 ## 🌱Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). 
