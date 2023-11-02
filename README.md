@@ -53,6 +53,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Github](https://github.com/modularml/mojo)
 - [Github discussions for Mojo](https://github.com/modularml/mojo/discussions)
 - [llama2 in Mojo! - Porting of LLM llama2.c in 🔥](https://github.com/tairov/llama2.mojo)
+- [Mojo CSV - read and write csv data](https://github.com/mzaks/mojo-csv)
 
 ## 🎨Essential
 - [Blog](https://www.modular.com/blog)
